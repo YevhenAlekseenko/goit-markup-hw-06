@@ -919,6 +919,7 @@ a {
 .modal-link {
   text-decoration-line: underline;
   color: var(--accent-color);
+  margin-left: 4px;
 }
 
 .modal-button-send {
