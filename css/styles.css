@@ -485,6 +485,11 @@ a {
   cursor: pointer;
 }
 
+.button-primery:hover,
+.button-primery:focus {
+  background-color: rgba(24, 140, 232, 1);
+}
+
 .button-portfolio {
   font-family: inherit;
   font-weight: 500;
